@@ -1,0 +1,42 @@
+{
+    "?div-name": "credits-pane",
+    "?visible": false,
+    "?charset": "UTF-8",
+    "?inpackage": false,
+    "tutorials": true,
+    "programs": true,
+    "author": "Elijah",
+    "Content": {
+        "original-game": false,
+        "original-designer": "Nintendo",
+        "developers": {
+            "Idea": "Elijah",
+            "Code": "ELedlow",
+            "Mario and Tile Sprites": "Imported from marioandme64 on Scratch, Sprites designed by Nintendo",
+            "ELedlow Bros. (only here) sprites": "By Elijah and Ninendo",
+            "Elijah's Adventures sprites": "Elijah and mario_TB on Scratch"
+        },
+        "voices": {
+            "ELedlow the fox": "Elijah",
+            "Jim the Raccon": null,
+            "Lisa the Raccon": null,
+            "Mario": "Charles Martinet (64) and ELedlow",
+            "Luigi": null,
+            "Bowser": null,
+            "Kam the Panther": "Kam",
+            "CrystalEyes the kamodo dragon": "Max",
+            "Elijah Stickman": "Elijah"
+        },
+        "tutorials": {
+            "1": "Meth meth Method on Youtube"
+        },
+        "programs": {
+            "Main": "Js, Html, Css",
+            "Application(s)": {
+               "1": "Electron",
+               "2": "node.js"
+            },
+            "Game-Encoding": "MasterCode & ELedlow Studios"
+        }
+    }
+}
