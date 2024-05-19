@@ -1,5 +1,3 @@
-# Super ELedlow Bros
-
 ## Instructions
 
 1. Choose a name and press Enter to start the game.
