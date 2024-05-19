@@ -1,3 +1,0 @@
-window.moduleExports = {
-    sus: 'baka'
-};
