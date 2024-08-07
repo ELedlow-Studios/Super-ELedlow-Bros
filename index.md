@@ -1,8 +1,6 @@
 # Super ELedlow Bros. v7.5.2
 
-To download the latest version, please visit the official [GitHub repository](https://github.com/ELedlow-Studios/Super-ELedlow-Bros).
-
-For more information and updates, check out the [project website](https://mastercodebuild.wixsite.com/eledlow-pc-port).
+To download the latest application version, please visit the official [GitHub repository](https://github.com/ELedlow-Studios/Super-ELedlow-Bros).
 
 **Requirements to Play:**
 - Visual Studio Code (VsCode) with Ritwickey LiveServer extension.
@@ -67,5 +65,3 @@ For those interested in using Electron Forge, here's a basic setup:
 - Implemented a feature to retrieve the user's PC name based on the file structure. ⚠️❎
 - Added customizable settings feature.
 - Enabled saving settings to localStorage. ✖️
-
-For a comprehensive list of changes across all versions v.5 and up, please visit the [App Updates page](https://mastercodebuild.wixsite.com/eledlow-pc-port/download/app-updates).
