@@ -16,16 +16,16 @@
 
 ### Producers
 
-- Eledlow
+- ELedlow
 
 ### Programmers
 
-- Eledlow
+- ELedlow
 
 ## Copyright
 
-- Any content in the Super Mario franchise belongs to Nintendo only.
-- Any content in the Arrow The Fox franchise belongs to the Mastercode Team and to the Eledlow Studios Team.
+- Any content in the Super Mario franchise © 1986 of Nintendo.
+- Any content in the Arrow The Fox franchise is © 2024 of Breakout-X.
 
 ## Project Details
 
@@ -33,6 +33,5 @@ This project was created with the Eledlow Studios Engine.
 
 ## Licenses
 
-- This work is licensed under the CC BY-NC 4.0. License due to its usage of Web-Breakout content.
-
-For more information, please see `LICENSE.md` in the `public` directory.
+- This work is licensed under the CC BY-NC 4.0. License.
+- Web-Breakout content in this project is under All Rights Reserved and is © 2024 of Breakout-X 
