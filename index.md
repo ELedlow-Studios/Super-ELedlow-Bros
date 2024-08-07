@@ -1,8 +1,8 @@
 # Super ELedlow Bros. v7.5.2
 
-To download the latest application version, please visit the official [GitHub repository](https://github.com/ELedlow-Studios/Super-ELedlow-Bros).
+To download the latest application version, please visit the official [GitHub repository](https://github.com/ELedlow-Studios/Super-ELedlow-Bros). Or you can download it right [here](https://github.com/ELedlow-Studios/Super-ELedlow-Bros/releases/download/v7.5.1-beta.3/mar.v2.exe.zip) if you want.
 
-**Requirements to Play:**
+**Requirements to edit and use the source code:**
 - Visual Studio Code (VsCode) with Ritwickey LiveServer extension.
 - Node.js with Express.
 - Electron or Electron Forge for desktop app support.
@@ -51,7 +51,7 @@ app.whenReady().then(createWindow);
 ### Electron Forge
 For those interested in using Electron Forge, here's a basic setup:
 ```javascript
-// Please refer to the Electron Forge documentation for detailed setup instructions.
+// Please refer to the Electron Forge documentation for detailed setup instructions as I mess up... a lot.
 ```
 
 **ChangeLog for v7.5.2:**
