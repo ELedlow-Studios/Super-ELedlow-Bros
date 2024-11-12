@@ -1,3 +1,6 @@
+# ⚠️THIS PROJECT IS NO LONGER MAINTAINED⚠️
+To get a better version, please visit [Mar.V2.exe on Github](https://github.com/ELedlow-Studios/Mar.V2.exe)
+
 ## Instructions
 
 1. Choose a name and press Enter to start the game.
